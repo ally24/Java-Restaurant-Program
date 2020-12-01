@@ -1,0 +1,42 @@
+FOOD TYPE	NAME	INGREDIENTS	PRICE
+APPETIZER	Onion Rings	Ranch dipping sauce	$8.50 
+APPETIZER	Garlic Bread	Jack cheese, roasted garlic and herbs	$9.00 
+APPETIZER	Artichoke, Spinach and Jalepeno Dip	With house-made tortilla chips	$13.50 
+APPETIZER	Potato Skins	Cheddar cheese, apple wood smoked bacon & sour cream	$14 
+APPETIZER	Crispy Calamari	House made cocktail sauce	$15 
+APPETIZER	Mozzarella Cheese Sticks	Marinara	$13 
+APPETIZER	Crispy Artichokes	Fried artichoke hearts, parmesan, lemon aioli	$12 
+APPETIZER	Crispy Chicken Wings	Frank's red hot sauce, blue cheese dressing	$15 
+SALAD	Courtyard Salad	Organic baby greens, cucumbers, balsamic dressing	$8 
+SALAD	Ceasar Salad	Romaine, parmesan cheese, ceasar dressing, croutons	$12 
+SALAD	Cobb Salad	Grilled chicken breast, bacon, tomatoes, hard-boiled egg, blue cheese, romaine, creamy balsamic vinaigrette	$16 
+SALAD	Taco Salad	Ground beef, pinto beans, avocado, olives, cheddar cheese, tomatoes, romaine, cilantro ranch dressing	$16 
+SALAD	Buffalo Chicken Salad	Chicken breast tossed in Frank's Red Hot sauce, blue cheese, celery, romaine, crispy fried onions, blue cheese dressing	$16 
+SALAD	Chinese Chicken Salad	Chicken breast, Mandarin oranges, almonds, crispy won-ton strips, baby greens, seasame vinaigrette	$16.50 
+SALAD	Shrimp Louis Salad	Pacific bay shrimp, hard-boiled egg, avocado, tomatoes, romaine, Louis dressing	$18 
+SALAD	Black & Blue Salad	Filet steak tips, blue cheese, romaine, blue cheese dressing, crispy fried onions	$19 
+PIZZA	Margherita Pizza	Mozzarella, pecorino Romano, tomato sauce, basil, oregano	$25 
+PIZZA	Pepperoni Pizza	Mozzarella, pecorino Romano, pepperoni, tomato sauce, oregano	$25 
+PIZZA	Calabrese Pizza	Calabrese salami, fennel confit, pickled Fresnochilies, fresh mozzarella, honey, pecorino Romano	$25 
+PIZZA	Sausage Pizza	Mozzarella, pecorino Romano, fennel sausage, tomato sauce, oregano	$25 
+PIZZA	Tartufo Pizza	Mozzarella, fontina, truffle pecorino, creme fraiche, black truffle mushroom pate, soft cooked egg	$25 
+PIZZA	Artichoke Pizza	Chevre, mozzarella, roasted artichokes, shaved shallots, tomato sauce, parsley, extra virgin olive oil	$25 
+PIZZA	Burrata Pizza	Burrata, pecorino Romano, prosciutto di Parma, rapini, garlic, extra virgin olive oil	$25 
+PASTA	Tagliatelle Bolognese	Bolognese meat ragu, pancetta, Italian parsley	$22 
+PASTA	Pomodoro	Spaghetti, crushed Roma tomatoes, basil, Grana Padano, basil oil	$22 
+PASTA	Carbonara	Bucatini, fresh English peas, crispy pancetta, chives, Parmigiano Reggiano cheese, poached egg	$25 
+PASTA	Clams Linguine	Linguine, littleneck clams, Fresno chilies, preserved lemon, chives, house made breadcrumbs	$25 
+PASTA	Trenne	Pan sauteed trenne pasta, braised beef rib, Tuscan black kale, caraelized onions, shaved Parmigiano Reggiano	$25 
+PASTA	Lasagna	Traditional pork ragu, bechamel, fresh mozzarella, Grana Padano, basil	$25 
+ENTREE	Brick Cooked Chicken	Braised cannelini beans, greans, salsa verde	$28 
+ENTREE	Dungeness Crab Roll	Butter toasted brioche, house-made potato chips	$31 
+ENTREE	Grilled Heritage Pork Chop	Jalapeno grits, broccolini, apple morstarda	$34 
+ENTREE	Grass-Fed Cheeseburger	Vella cheddar, buttermilk bun, arugula, classic condiments, crispy potatoes	$35 
+ENTREE	Grass-Fed Highlander	Two plancha griddled beef patties, buttermilk bun, carmelized onions, cheddar cheese, lettuce, secret sauce, crispy potatoes	$21 
+ENTREE	California Arborio Rice	Honeynut squash, garden peppers, mushrooms, pumpkin seeds	$24 
+ENTREE	Grilled Idaho Trout	Mushrooms, fennel, almonds, bacon vinaigrette	$28 
+DESSERT	Strawberry Shortcake	Angel food, whipped cream	$11 
+DESSERT	Beignets	Bourbon caramel sauce	$11 
+DESSERT	Creme Brulee	Tahitian vanilla custard brulee, fresh berries, petite beignets	$14 
+DESSERT	Yuzu Ricotta Cheesecake	Miso caramel, spiced apple compote, apple crisp	$10 
+DESSERT	Dark Chocolate Budino Tart	Orange anglaise, cinnamon candied pecans, basil whipped cream	$10 
